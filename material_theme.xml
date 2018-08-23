@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.8.2" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="isContrastMode" value="true" />
+    <option name="useMaterialFont" value="false" />
+    <option name="userId" value="-523279b9:1656438f889:-8000" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>
