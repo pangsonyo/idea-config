@@ -15,8 +15,8 @@
     <mask>*.*8</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.app</mask>
     <mask>*.*</mask>
     <mask>*.sc</mask>
+    <mask>*.app</mask>
   </component>
 </application>
