@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*hbm.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +17,11 @@
     <mask>*.js</mask>
     <mask>*.*8</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.sc</mask>
     <mask>*.app</mask>
     <mask>*.class</mask>
+    <mask>*.xml</mask>
+    <mask>*hbm.xml</mask>
   </component>
 </application>
