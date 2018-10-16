@@ -11,12 +11,12 @@
     <mask>*.mxml</mask>
     <mask>*.*8</mask>
     <mask>*.*</mask>
-    <mask>*.sc</mask>
     <mask>*.app</mask>
     <mask>*hbm.xml</mask>
     <mask>*.js</mask>
     <mask>*.class</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.sc</mask>
   </component>
 </application>
